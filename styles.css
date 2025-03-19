@@ -270,7 +270,7 @@ img {
 
 
 .boxes-seven {
-    width:300px;
+    width:100%;
     height:300px;
 
 }
@@ -278,7 +278,7 @@ img {
 
 
 .boxes-eight {
-    width:300px;
+    width:100%;
     height:300px;
     
 }
@@ -286,7 +286,7 @@ img {
 
 
 .boxes-nine {
-    width:300px;
+    width:100%;
     height:300px;
     
     
@@ -314,8 +314,80 @@ img {
     }
 
 
+
+
+
+    .boxes-one {
+        width:100%;
+        height:300px;
+    
+    }
+    
+    
+    
+    .boxes-two {
+        width:100%;
+        height:300px;
+    
+        
+    }
+    
+    
+    .boxes-three {
+        width:100%;
+        height:300px;
+    
+        
+    }
+    
+    
+    .boxes-four {
+        width:100%;
+        height:300px;
+    
+    }
+    
+    
+    .boxes-five {
+        width:100%;
+        height:300px;
+        
+    }
+    
+    
+    .boxes-six {
+        width:100%;
+        height:300px;
+        
+    }
+    
+    
+    .boxes-seven {
+        width:100%;
+        height:300px;
+    
+    }
+    
+    
+    
+    .boxes-eight {
+        width:100%;
+        height:300px;
+        
+    }
+    
+    
+    
+    .boxes-nine {
+        width:100%;
+        height:300px;
+        
+        
+    }
+
+    
     .boxes-ten {
-        width: 300px;
+        width: 100%;
         height:300px;   
         position:relative;
         bottom:10px;
