@@ -34,6 +34,8 @@ img {
 .boxes-two {
     width:300px;
     height:300px;
+    border:4px solid hsl(14, 86%, 42%);
+    border-radius:10px;
 
     
 }
@@ -50,6 +52,9 @@ img {
 .boxes-four {
     width:300px;
     height:300px;
+    border:4px solid hsl(14, 86%, 42%);
+    border-radius:10px;
+
 
 }
 
@@ -87,6 +92,9 @@ img {
 .boxes-nine {
     width:300px;
     height:300px;
+    border:4px solid hsl(14, 86%, 42%);
+    border-radius:10px;
+
     
     
 }
@@ -96,14 +104,14 @@ img {
 
 .boxes-ten {
     background-color:#fff;
-    width: 320px;
-    height: 300px;
+    width: 350px;
+    height: 550px;
     border-radius: 10px;
     margin-top:0px;
     position:fixed;
     top:50px;
     right:0;
-    padding:5px; 
+    padding:10px; 
 }
 
 
@@ -126,11 +134,13 @@ img {
 .btn-two {
     border-radius: 27px;
     padding:15px;
-    background-color:#fff;
-    border:1px solid black;
+    background-color:hsl(14, 86%, 42%);
+    color:#fff;
+    border-style:none;
     position:relative;
     left:80px;
     bottom:30px;
+    word-spacing:30px;
 
    
 
@@ -154,11 +164,13 @@ img {
 .btn-four {
     border-radius: 27px;
     padding:15px;
-    background-color:#fff;
-    border:1px solid black;
+    background-color:hsl(14, 86%, 42%);
+    color:#fff;
+    border-style:none;
     position:relative;
     left:80px;
     bottom:30px;
+    word-spacing: 30px;
 }
 
 
@@ -212,11 +224,13 @@ img {
 .btn-nine {
     border-radius: 27px;
     padding:15px;
-    background-color:#fff;
-    border:1px solid black;
+    background-color:hsl(14, 86%, 42%);
+    color:#fff;
+    border-style:none;
     position:relative;
     left:80px;
     bottom:30px;
+    word-spacing: 30px;
 }
 
 
