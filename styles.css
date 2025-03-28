@@ -315,6 +315,199 @@ img {
 }
 
 
+/* tablet */
+@media (max-width: 768px) {
+    .container {
+      display:grid;
+      grid-template-columns: repeat(2, 50%);
+      width:100%;
+      height:auto;
+      
+      
+    }
+
+    img {
+        width: 100%;
+        
+        
+    }
+
+
+
+
+
+    .boxes-one {
+        width:100%;
+        height:300px;
+    
+    }
+    
+    
+    
+    .boxes-two {
+        width:100%;
+        height:300px;
+    
+        
+    }
+    
+    
+    .boxes-three {
+        width:100%;
+        height:300px;
+    
+        
+    }
+    
+    
+    .boxes-four {
+        width:100%;
+        height:300px;
+    
+    }
+    
+    
+    .boxes-five {
+        width:100%;
+        height:300px;
+        
+    }
+    
+    
+    .boxes-six {
+        width:100%;
+        height:300px;
+        
+    }
+    
+    
+    .boxes-seven {
+        width:100%;
+        height:300px;
+    
+    }
+    
+    
+    
+    .boxes-eight {
+        width:100%;
+        height:300px;
+        
+    }
+    
+    
+    
+    .boxes-nine {
+        width:100%;
+        height:300px;
+        
+        
+    }
+
+
+    .boxes-ten {
+        width: 100%;
+        height:300px;   
+        position:relative;
+        bottom:10px;
+        
+    }
+
+
+    .btn-one {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+    
+     
+    .btn-two {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+
+     
+    .btn-three {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+     
+    .btn-four {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+     
+    .btn-five {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+     
+    .btn-six {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+     
+    .btn-seven {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+     
+    .btn-eight {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+
+     
+    .btn-nine {
+       
+        position:relative;
+        left:120px;
+        bottom:30px;
+    }
+
+    .contain-btn {
+        display:flex;
+        justify-content: center;
+    }
+    
+
+
+
+  }
+
+
+
+
 /* Mobile */
 @media (max-width: 375px) {
     .container {
